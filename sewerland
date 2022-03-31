@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<!--TEST 1 2 1 2 TEST-->
+<html>
+   <head>
+       <meta class="utf8">
+       <title>Projet-site-de-voyage</title>
+   <style>
+       
+       body{
+           background-color: black;
+           background-image:url("tunnel-1646412308987-9459.jpg");
+    background-attachment:fixed;
+           background-size:1777px;
+           font-size: 20px;
+           color:white;
+           font-family: monospace;
+           cursor:url("trollface.png"),auto;
+            }
+       
+           h1{
+               font-family:fantasy;
+               letter-spacing: 15px;
+               font-size: 103px;
+               text-align: center;
+               color: red;
+               text-align: center; 
+                 } 
+       
+       #souvenir-reve{
+           font-family:fantasy;
+               text-align: center;
+           font-size: 48px;
+           }
+       
+       #presentation{
+           background-color:black;
+           font-size:25px;
+           margin-top: 250px;
+           text-decoration: underline;
+       }
+       #liste{
+           background-color: black;
+           
+            }
+       #paris{
+           background-color: black;
+               color:darkgrey;
+           font-size: 16px
+       }
+       
+       .titre{
+           color:red;
+           font-family: fantasy;
+           letter-spacing: 5px;
+           font-size: 57px;
+           text-align: center;
+           background-color: black;
+           
+       }
+       img{
+           
+        border: 10px white;
+        border-style:solid;
+           text-align-last: center;
+              }
+       p{
+           background-color: black;
+           text-align: center;
+       }
+       h2{
+           color: red;
+           
+       }
+       table{
+            border-bottom-style: solid;
+            }
+       #faune-flore{
+           color:red;
+           font-family: fantasy;
+           letter-spacing: 5px;
+           font-size: 57px;
+           text-align: center;
+           background-color: black;
+           
+       
+    
+                 
+}
+       </style>
+    </head>
+    
+<body>
+    
+    <h1>Bienvenue a Sewerland</h1>
+    <br><br>
+    
+    <p id="souvenir-reve">
+        Des souvenirs, pas des rêves.</p>
+    <br><br><br>
+    
+    
+    <p id="presentation">
+        Bienvenue dans un monde <b>vaste et nausébond</b> encore méconnu du tourisme de masse, vous y trouverez un lieu atypique, amusant et fort sympatique.Peu de gens sont venu dans cet endroit idéal pour se ressourcer loins de la vie citadine et propre.</p>
+    <br><br>
+   
+    <ul id="liste">
+        
+        <li>Sombre et puant</li>
+        <li>Sale</li>
+        <li><a href="#faune-flore">Faune et flore adorable</a></li>
+    </ul>
+    
+    <p id="paris">
+        <strong>Paris a un autre Paris sous elle</strong>.<br>
+        <em>Un Paris d’égouts ; qui a ses rues, ses croisements, ses places, ses impasses, ses artères et sa circulation, qui est visqueuse, moins la forme humaine.</em> – Les Misérables.</p>
+    
+    
+    <h2 class="titre">Tour de visite</h2>
+    
+    
+    <p>
+        Nager dans cette merveilleuse eau <del>pollué et puante</del>, nous mettons a votre dispositions masque et tubas a votre frais, attention les maladies y sont nombreuses c'est aussi ca l'aventure, malheuresement aucune compagnie d'assurance n'as voulu s'engager avec nous, mais aucun risque voyez nos témoignagnes <a href="#temoignages">ici</a></p>
+    
+    <br><br><br><br>
+    
+    <img src="eau-egout.jpg"images/photo-projet-site-de-voyage/eau-egout.jpg"" alt="photo-eau-egout" width="485">
+    <img src="creepy-yellow-creepy.jpg" alt="photo-crepy-yellow" width="545">
+    <br><br><br><br>
+    
+    
+<p>
+    les passages se ressemblent tous, un vrai labyrinthe pour une expérience unique, 
+vous pourez aussi croiser la population locale, ils s'ecrirons surement: <strong>halte, qui etes vous? vous n'avez pas le droit d'etre ici.</strong><br>
+    
+Mais c'est un jeu pour eux, donc essayer de leur échapper, loins de tout nos stéréotypes de citadins vivez une expérience unique.
+</p>
+    
+    <br><br>
+    
+    <img src="grey-sewer-garbage.jpg" alt="grey-sewer-photo" width="533">
+    <img src="egout-paris-voyage.jpg" width="485">
+    <br><br><br>
+    <p><a href="#temoignages">Retrouvez tout nos témoignagnes un peu plus bas</a></p>
+    
+    
+    <h2 id="faune-flore">
+        Faunes et flores</h2>
+    
+    <p><strong>Horrible,horrible et horrible</strong></p>
+    
+    <br><br><br><br>
+    
+    <p>Bon nombres d'animaux en liberté se trouve ici, un vrai bonheur pour nos amoureux de la biodiversité.</p>
+    <br><br>
+    <img src="_methode_times_prod_web_bin_bf169f22-d976-11e9-a836-b8a7068a08fb.jpg" alt="photo-blattes" width="375">
+    <img src="rat-egout.jpg" alt="photo-rat" width="375">
+    <br><br><br>
+    
+    <p> 
+        Les égouts forment un milieu où la biodiversité est limitée. La flore visible est principalement constituée par des champignons, la faune entre autres par des rats bruns, des blattes, des araignées, une variété naine de sauterelle, et bien plus encore.</p>
+    
+    <br><br><br>
+    
+    <h2 id="temoignages">
+        Témoignages</h2>
+    
+    <table>
+        <caption>Avis de voyageur</caption>
+        <thead><tr>
+            <td>Photo</td>
+            <td>Nom</td>
+            <td>Prénom</td>
+            <td>Age</td>
+            <td>Avis</td></tr>
+            </thead>
+       <tbody>
+       <tr>
+           <td><img src="homme-braque.jpg" width="100"></td>
+           <td>Giroud</td>
+           <td>Paul</td>
+           <td>27</td>
+           <td>Expérience incroyable, du début a la fin <del>>j'ai encore des traumatismes</del></td>
+        </tr>
+        <tr>
+            <td><img src="homme-gene.jpg" alt="homme-gene2" width=100></td>
+            <td>Ribery</td>
+            <td>Franck</td>
+            <td>37</td>
+            <td>J'ai adoré mon voyage a sewerland, les animaux y sont vraiment très mignon, la nourriture excellentes, j'ai adoré.</td>
+        </tr></tbody>
+    </table>
+    <br><br>
+    
+    
+    <h2 id="contact">Contact</h2>
+    
+    
+    
+    0666366636<br>
+    insane@bmail.com<br>
+    adresse de l'entreprise<br>
+    instagram:insane-sewerland<br>
+    www.insanesewerland.com<br>
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+    </body>
+
+</html>
